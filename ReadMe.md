@@ -1,18 +1,22 @@
-## Simple site: Easy websites with GitHub pages
+## Palermo Penano's website
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using Markdown and git.
+The website is [here](https://palpen.github.io/palermopenano).
 
-This is a minimal tutorial to get started.
+I created the website by following the tutorial found [here](http://kbroman.org/simple_site/)
 
-View the thing [here](http://kbroman.org/simple_site).
+### Changes made to original tutorial site
+- The file that is most different from the original website is `_includes/themes/twitter/default.html`
+
+### How to make changes to the website: ###
+- First, cd into /Users/palermospenano/Desktop/Dropbox/website/palermopenano in Terminal
+- The files you'll need to edit to make changes to the website are index.md and all the .md files in the *pages* folder.
+- Once the edits to the .md files have been made, execute the following in Terminal:  
+
+>git add .  
+>git commit -m "DESCRIPTION OF CHANGES MADE"  
+>git push -u origin gh-pages  
+
+### How to link custom domain from NameCheap to GitHub Pages
+- [Click here](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages)
 
 ---
-
-To the extent possible under law,
-[Karl Broman](https://github.com/kbroman)
-has waived all copyright and related or neighboring rights to
-&ldquo;[simple site](https://github.com/kbroman/simple_site)&rdquo;.
-This work is published from the United States.
-<br/>
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
