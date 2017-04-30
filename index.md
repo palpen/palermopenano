@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Palermo Penano
 description: My website
 ---
 
