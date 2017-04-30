@@ -32,6 +32,12 @@
       <div class="navbar-inner">
         <div class="container-narrow">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <ul class="nav">
+              <li><a href="{{ BASE_PATH }}">home</a></li>
+              <li><a href="{{ BASE_PATH }}/pages/research.html">research</a></li>
+              <li><a href="{{ BASE_PATH }}/pages/teaching.html">teaching</a></li>
+              <li><a href="{{ BASE_PATH }}/pages/stuff.html">stuff</a></li>
+          </ul>
         </div>
       </div>
     </div>
@@ -42,15 +48,6 @@
         {{ content }}
       </div>
       <hr>
-      <footer>
-        <p><small>
-  <!-- start of Karl's footer; modify this part -->
-          <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" alt="CC0"/></a> &nbsp;
-          <a href="https://palpen.github.io/palermopenano">Palermo Penano</a>
-  <!-- end of Karl's footer; modify this part -->
-        </small></p>
-      </footer>
-
     </div>
 
     {% include JB/analytics %}
