@@ -10,4 +10,4 @@ description: teaching page
     - Slides (for my part) and course syllabus are [here](https://github.com/palpen/palermo_trade_lectures_summer2016)
 
 #### Teaching Assistant
-* very many
+* very many!

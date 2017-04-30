@@ -1,6 +1,6 @@
 ---
 layout: page
-title: stuff
+title: personal
 description: other stuff
 ---
 * [GitHub page](https://github.com/palpen)
@@ -8,7 +8,6 @@ description: other stuff
 * GitHub repository for website: [here](https://github.com/palpen/palermopenano)
 * Book: [Flatland by Edwin Abbott](https://en.wikipedia.org/wiki/Flatland)
 * Links: [The New York Times] [1], [The Atlantic] [2], [Statistical Modeling, Causal Inference, and Social Science] [3], [Hacker News] [4], [Techmeme] [5], [Marginal Revolution] [6]
-* [t](https://palpen.github.io/palpen_articles/)
 
 [1]: http://www.nytimes.com
 [2]: https://www.theatlantic.com
