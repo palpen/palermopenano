@@ -9,9 +9,9 @@ Hello. I am a PhD candidate in [economics](https://www.economics.utoronto.ca) at
 My broad research interests include development economics, empirical microeconomics, and international trade. I am also interested in the applications of [geographic information systems][1] to issues in environmental economics and firm productivity. At present, I am working on documenting the spatial distribution of firm productivity in India and China and the role that transportation infrastructure play in changing this distribution.
 
 ___
-
+**Contact information:** <br/>
 [Palermo S. Penano](https://www.economics.utoronto.ca/index.php/index/person/gradStudent/1000955) <br/>
-palermo [**dot**] penano [**at**] mail.utoronto.ca
+palermo **dot** penano **at** mail.utoronto.ca
 <!-- Last update: November 2016 -->
 
 [1]: https://en.wikipedia.org/wiki/Geographic_information_system
