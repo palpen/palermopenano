@@ -6,7 +6,7 @@ description: other stuff
 * [GitHub page](https://github.com/palpen)
 * [Code snippets](https://gist.github.com/palpen)
 * GitHub repository for website: [here](https://github.com/palpen/palermopenano)
-* Book: [Flatland by Edwin Abbott](https://en.wikipedia.org/wiki/Flatland)
+* [Books I'm reading](https://palpen.github.io/palermopenano/pages/books.html)
 * Links: [The New York Times] [1], [The Atlantic] [2], [Statistical Modeling, Causal Inference, and Social Science] [3], [Hacker News] [4], [Techmeme] [5], [Marginal Revolution] [6]
 
 [1]: http://www.nytimes.com
