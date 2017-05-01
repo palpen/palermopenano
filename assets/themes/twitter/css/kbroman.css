@@ -9,3 +9,9 @@ code {
 a code {
   color: #08c;
 }
+
+a:hover {
+    color: darkslateblue;
+    background-color: #e3e4fa;
+    text-decoration: none;
+}
