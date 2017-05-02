@@ -520,19 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "_includes/themes/twitter/default.html",
-			"settings":
-			{
-				"buffer_size": 2001,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 3788,
+				"buffer_size": 3794,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -541,7 +532,51 @@
 			"file": "index.md",
 			"settings":
 			{
-				"buffer_size": 2857,
+				"buffer_size": 1062,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/themes/twitter/default.html",
+			"settings":
+			{
+				"buffer_size": 1929,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/books.md",
+			"settings":
+			{
+				"buffer_size": 565,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/themes/twitter/css/kbroman.css",
+			"settings":
+			{
+				"buffer_size": 235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/themes/twitter/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1032,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/teaching.md",
+			"settings":
+			{
+				"buffer_size": 341,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -778,10 +813,50 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 374.0,
-		"last_filter": "insert",
+		"height": 162.0,
+		"last_filter": "open pr",
 		"selected_items":
 		[
+			[
+				"open pr",
+				"Terminal: Open in project folder"
+			],
+			[
+				"open",
+				"Terminal: Open"
+			],
+			[
+				"o",
+				"Terminal: Open"
+			],
+			[
+				"ope",
+				"Terminal: Open"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
 			[
 				"insert",
 				"InsertDate: Default"
@@ -797,10 +872,6 @@
 			[
 				"push",
 				"Git: Push"
-			],
-			[
-				"open",
-				"Open in terminal"
 			],
 			[
 				"destro",
@@ -821,10 +892,6 @@
 			[
 				"inser",
 				"InsertDate: Default"
-			],
-			[
-				"new",
-				"File: New File Relative to Current View"
 			],
 			[
 				"commit curr",
@@ -849,10 +916,6 @@
 			[
 				"commitcu",
 				"Git: Quick Commit (current file)"
-			],
-			[
-				"rename",
-				"File: Rename"
 			],
 			[
 				"origa",
@@ -881,10 +944,6 @@
 			[
 				"def",
 				"InsertDate: Default"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"quick ",
@@ -1005,10 +1064,6 @@
 			[
 				"git com",
 				"Git: Commit"
-			],
-			[
-				"git diff",
-				"Git: Diff Current File"
 			],
 			[
 				"git check",
@@ -1206,8 +1261,35 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/palermospenano/Desktop/github_proj/palermopenano",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/_includes",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/_includes/themes",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/_includes/themes/twitter",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/assets",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/assets/themes",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/assets/themes/twitter",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/assets/themes/twitter/bootstrap/css",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/assets/themes/twitter/bootstrap/img",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/assets/themes/twitter/css",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/pages"
+	],
 	"file_history":
 	[
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/pages/personal.md",
+		"/Users/palermospenano/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/palermospenano/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Applications/iTerm.app/Contents/MacOS/iTerm2",
+		"/Users/palermospenano/Library/Application Support/Sublime Text 3/Packages/User/termX.sublime-settings",
+		"/Users/palermospenano/Library/Application Support/Sublime Text 3/Packages/termX/termX.sublime-settings",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/pages/stuff.md",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/ReadMe.md",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/_includes/themes/twitter/post.html",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/_includes/themes/twitter/default.html",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/_layouts/default.html",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano_OLD/pages/background.md",
+		"/Users/palermospenano/Desktop/github_proj/palermopenano/palermo_website.sublime-project",
 		"/Users/palermospenano/Desktop/github_proj/palermopenano/.gitignore",
 		"/Users/palermospenano/Desktop/github_proj/palermopenano/_config.yml",
 		"/Users/palermospenano/Desktop/Dropbox/research/roads_india_firms/write/meeting/snow-06-09-2016.txt",
@@ -1264,9 +1346,7 @@
 		"/Users/palermospenano/Desktop/Dropbox/work/ra/n_bau/Airports_Palermo/build/codes/geocoding/merge_regeocoded_firms.do",
 		"/Users/palermospenano/Desktop/Dropbox/work/ra/n_bau/Airports_Palermo/build/codes/geocoding/geocoder_geopy.py",
 		"/Users/palermospenano/Desktop/github_proj/palermopenano/index.md",
-		"/Users/palermospenano/Desktop/github_proj/palermopenano/ReadMe.md",
 		"/Users/palermospenano/Desktop/github_proj/palermopenano/_layouts/post.html",
-		"/Users/palermospenano/Desktop/github_proj/palermopenano/_layouts/default.html",
 		"/Users/palermospenano/Desktop/github_proj/palermopenano/_layouts/page.html",
 		"/Users/palermospenano/Desktop/github_proj/palermopenano/CNAME",
 		"/Users/palermospenano/Desktop/github_proj/palpen.github.io/ReadMe.md",
@@ -1324,22 +1404,11 @@
 		"/Users/palermospenano/Desktop/Dropbox/research/road_networks_firms/write/meeting/nickli-06-10-2016.txt",
 		"/Users/palermospenano/Desktop/Dropbox/research/road_networks_firms/write/meeting/snow-06-09-2016.txt",
 		"/Users/palermospenano/Desktop/Dropbox/research/road_networks_firms/write/meeting/nickli-31-10-2016.txt",
-		"/Users/palermospenano/Desktop/Dropbox/research/road_networks_firms/notes.txt",
-		"/Users/palermospenano/Desktop/Dropbox/research/road_networks_firms/write/meeting/brandt-28-10-2016.txt",
-		"/Users/palermospenano/Desktop/Dropbox/research/road_networks_firms/codes/main.do",
-		"/Users/palermospenano/Desktop/Dropbox/research/road_networks_firms/codes/C2A_data_explore.do",
-		"/Users/palermospenano/Desktop/Dropbox/research/road_networks_firms/codes/A8_adjust_financial.do",
-		"/Users/palermospenano/Desktop/Dropbox/research/road_networks_firms/codes/C2_regressions.do",
-		"/Users/palermospenano/anaconda/lib/python2.7/site-packages/pattern/text/it/it-lexicon.txt",
-		"/Users/palermospenano/Desktop/github_proj/palermopenano/_includes/themes/twitter/default.html",
-		"/Users/palermospenano/Desktop/Dropbox/work/ra/n_bau/Airports_Palermo/build/codes/download_dipp_website_sia_newsletter/download_sia_newsletters.sh",
-		"/Users/palermospenano/Desktop/Dropbox/research/road_networks_firms/write/proposal.lyx",
-		"/Applications/Anxiety.app/Contents/MacOS/Anxiety",
-		"/Users/palermospenano/Desktop/temporary/code_spatialRD.do"
+		"/Users/palermospenano/Desktop/Dropbox/research/road_networks_firms/notes.txt"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -1354,6 +1423,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"hr",
 			"sub",
 			"rdfrm_sumstat_distance",
 			"percchange_data_name",
@@ -1480,8 +1550,7 @@
 			"prj",
 			"proj",
 			"out_workspace",
-			" {",
-			"gq_mlinfomap_complete_cumu"
+			" {"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1514,25 +1583,124 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_includes/themes/twitter/default.html",
+					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2001,
+						"buffer_size": 3794,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1831,
-								1831
+								2073,
+								2111
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "yaml",
+							"buffer_scroll_name": "756b2a56",
+							"git_gutter_is_enabled": true,
+							"spell_check": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_visual",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 26
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 770.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "6c8cbac3",
+							"git_gutter_is_enabled": true,
+							"spell_check": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 64
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_includes/themes/twitter/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1237,
+								1237
 							]
 						],
 						"settings":
 						{
 							"bs_sintax": "html",
 							"buffer_scroll_name": "20997db8",
+							"git_gutter_is_enabled": true,
 							"spell_check": false,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
@@ -1550,39 +1718,135 @@
 								"partial_sequence": "",
 								"register": "\"",
 								"sequence": "",
-								"xpos": 57
+								"xpos": 23
 							}
 						},
 						"translation.x": 0.0,
-						"translation.y": 165.0,
+						"translation.y": 114.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "_config.yml",
+					"buffer": 3,
+					"file": "pages/books.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3788,
+						"buffer_size": 565,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1278,
-								1278
+								565,
+								565
 							]
 						],
 						"settings":
 						{
-							"bs_sintax": "yaml",
-							"buffer_scroll_name": "756b2a56",
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "50349084",
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"spell_check": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/themes/twitter/css/kbroman.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "css",
+							"buffer_scroll_name": "0d4b2e68",
+							"git_gutter_is_enabled": true,
 							"spell_check": false,
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": true,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_insert",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/themes/twitter/css/style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "css",
+							"buffer_scroll_name": "949b989c",
+							"git_gutter_is_enabled": true,
+							"spell_check": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true,
 							"vintage":
@@ -1596,58 +1860,61 @@
 								"partial_sequence": "",
 								"register": "\"",
 								"sequence": "",
-								"xpos": 3
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 558.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "index.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2857,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								124,
-								124
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "markdown",
-							"buffer_scroll_name": "6c8cbac3",
-							"spell_check": true,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
-							"vintage":
-							{
-								"action": null,
-								"action_count": "",
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 56
+								"xpos": 0
 							}
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "pages/teaching.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "95811f23",
+							"git_gutter_is_enabled": true,
+							"spell_check": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 11
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -1721,6 +1988,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"per",
+				"pages/personal.md"
+			],
 			[
 				"prelim",
 				"prelim_reg/prelim_reg.do"
@@ -2169,14 +2440,16 @@
 	"selected_group": 0,
 	"settings":
 	{
+		"_vintageous_reset_during_init": true,
 		"vintage":
 		{
+			"_cmdline_cd": "/Users/palermospenano/Library/Application Support/Sublime Text 3/Packages/User"
 		}
 	},
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 211.0,
 	"status_bar_visible": true,
 	"template_settings":
