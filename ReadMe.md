@@ -1,8 +1,6 @@
 ## Palermo Penano's website
 
-The website is [here](https://palpen.github.io/palermopenano).
-
-I created the website by following the tutorial found [here](http://kbroman.org/simple_site/)
+My website is [here](https://palpen.github.io/palermopenano), which is a modified version of the website created by following [this](http://kbroman.org/simple_site/) very informative tutorial.
 
 ### Changes made to original tutorial site
 - The file that is most different from the original website is `_includes/themes/twitter/default.html`
