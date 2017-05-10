@@ -10,8 +10,10 @@ a code {
   color: #08c;
 }
 
+/*color when hovering over link*/
 a:hover {
     color: darkslateblue;
     background-color: #e3e4fa;
     text-decoration: none;
 }
+
