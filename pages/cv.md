@@ -4,4 +4,4 @@ title: cv
 description: cv
 ---
 
-[LinkedIn Profile](linkedin.com/in/palermo-penano-273397b8) 
+[LinkedIn Profile](https://www.linkedin.com/in/palermo-penano-273397b8) 
