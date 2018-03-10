@@ -1,14 +1,11 @@
 ## Palermo Penano's website
 
-My website is [here](https://palpen.github.io/palermopenano), which is a modified version of the website created by following [this](http://kbroman.org/simple_site/) very informative tutorial.
+My website is [here](https://palpen.github.io/palermopenano), which is a modified version of the website created by following [this](http://kbroman.org/simple_site/) very informative tutorial. Most of the customization were made in the `default.html` file found in `_includes/themes/twitter/default.html`
 
-### Changes made to original tutorial site
-- The file that is most different from the original website is `_includes/themes/twitter/default.html`
-
-### How to make changes to the website: ###
-- First, cd into /Users/palermospenano/Desktop/Dropbox/website/palermopenano in Terminal
-- The files you'll need to edit to make changes to the website are index.md and all the .md files in the *pages* folder.
-- Once the edits to the .md files have been made, execute the following in Terminal:  
+### How to make changes to the website ###
+- `index.md` changes the contents of the homepage
+- All the `.md` files in the *pages* folder changes the contents of the other pages
+- Execute the following to add, commit, and push the changes and update the website:
 
 >git add .  
 >git commit -m "DESCRIPTION OF CHANGES MADE"  
