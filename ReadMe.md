@@ -4,12 +4,14 @@ My website is [here](https://palpen.github.io/palermopenano), which is a modifie
 
 ### How to make changes to the website ###
 - `index.md` changes the contents of the homepage
-- All the `.md` files in the *pages* folder changes the contents of the other pages
+- All the `.md` files in the `pages` folder changes the contents of the other pages
 - Execute the following to add, commit, and push the changes and update the website:
 
->git add .  
->git commit -m "DESCRIPTION OF CHANGES MADE"  
->git push -u origin gh-pages  
+```
+git add .  
+git commit -m "DESCRIPTION OF CHANGES MADE"  
+git push -u origin gh-pages  
+```
 
 ### How to link custom domain from NameCheap to GitHub Pages
 - [Click here](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages)
