@@ -1,7 +1,3 @@
----
-layout: page
-description: My website
----
 
 <img height="160" width="160" style="padding:1px; border: 5px solid #E2E2E2; border-radius:8px; margin-right: 20px" align="left" src="images/profile_pic_cropped.jpeg">
 
