@@ -1,20 +1,19 @@
-## Palermo Penano's website
+# Palermo Penano’s website
 
-My website is [here](https://palpen.github.io/palermopenano), which is a modified version of the website created by following [this](http://kbroman.org/simple_site/) very informative tutorial. Most of the customization were made in the `default.html` file found in `_includes/themes/twitter/default.html`
+Live site: https://pspenano.com/
 
-### How to make changes to the website ###
-- `index.md` changes the contents of the homepage
-- All the `.md` files in the `pages` folder changes the contents of the other pages
-- Execute the following to add, commit, and push the changes and update the website (it may take a few minutes for the changes to be reflected on the page):
+The homepage is a standalone page served by the existing GitHub Pages setup:
 
-```
-git add <FILE NAME>
-git commit -m "<DESCRIPTION OF CHANGE>"  
-git push -u origin gh-pages  
-```
+- `index.html`: bio and profile links.
+- `style.css`: responsive layout and typography.
+- `contact.js`: email reveal and copy controls.
+- `images/profile_pic_cropped.jpeg`: portrait.
+- `CNAME`: custom domain; preserve this file.
 
-### Setting up a custom domain for your GitHub Page using NameCheap
-- [Official guide by NameCheap](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages)
-- [A blog post on the topic](https://gist.github.com/plembo/84f80c920bb5ac6f19e53fe6f8db1ff7)
+The email address is lightly encoded and revealed on click. This deters basic harvesting but is not a secrecy boundary. The site loads no external fonts, libraries, or analytics.
 
----
+The old `pages/` source is retained for reference and excluded from the published site in `_config.yml`. The old email field has been removed from the current configuration; prior Git history is unchanged.
+
+Changes pushed to `gh-pages` deploy through GitHub Pages. Review the homepage locally before pushing.
+
+For a local preview, run `python3 -m http.server 8766 --bind 127.0.0.1` from the repository root and visit http://127.0.0.1:8766/.
